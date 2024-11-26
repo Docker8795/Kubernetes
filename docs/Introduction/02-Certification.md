@@ -1,7 +1,3 @@
-# Certification
-
-  - Take me to [Video Tutorial](https://kodekloud.com/topic/certification/)
-  
 ## Certification Details
 
    - **`Certified Kubernetes Administrator`**: https://www.cncf.io/certification/cka/
